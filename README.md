@@ -16,7 +16,7 @@ ale aspon jsem se zatím něco naučil, jak to funguje.
 ## Spolupracovni, zdroje: 
 #### Pouzivam AI, a dale čerpám informace od mého kamaráda a také spolupracovníka Adama Faltika.
 
-![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/967fbc14-69ca-4731-aaa2-51ea8cab7365)
+![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/b1d842db-708d-4303-ac45-388fad0e0b7d)
 
 
 
