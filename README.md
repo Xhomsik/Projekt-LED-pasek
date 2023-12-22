@@ -5,15 +5,15 @@
 
 
 
-## Postup:
+## POSTUP:
 #### Koupil jsem si LED pasek v TEMU, do kterého jsem investoval nemalé penize. Take jsem si koupil m5stack preš který to programuji (Resp. preš AI si nechám si udělat základ, a pak si to nějak upravuji podle sebe jelikož nejsem úplně dobrý programátor). Zapojil jsem si LED pásek do desky, a udělal program viz. přílohy. 
 ###### (program sem přídám po novém roce, nemám v tuto chvíli přístup na PC kde mám kod ;( )
 
-## Momentální stav:
+## MOMENTÁLNÍ STAV:
 #### Podařilo se mi zprovoznit LED pasek po pár týdnech, takže ted to nějak funguje. Pomocí tlačítek se vypíná/zapíná, mám tam předefinované barvy, měním intenzitu světla a také styl svícení.
 V praxi to je skoro nepoužitelné v tomto stavu, jelikož to je zapojené na té desce, ale aspoň jsem se zatím něco naučil, jak to funguje...
 
-## Spolupracovni, zdroje: 
+## ZDROJE: 
 #### Používám AI, a prošel jsem si pár projektů na tento styl. Také spolupracuji s Adamem Faltou který dělá obdobný projekt.
 
 ![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/ece31aa5-28d1-47ee-b6b5-9ee1c31fcc60)
