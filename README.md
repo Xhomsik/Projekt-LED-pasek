@@ -12,11 +12,14 @@
 ## MOMENTÁLNÍ STAV:
 #### Podařilo se mi zprovoznit LED pasek po pár týdnech, takže ted to nějak funguje. Pomocí tlačítek se vypíná/zapíná, mám tam předefinované barvy, měním intenzitu světla a také styl svícení.
 V praxi to je skoro nepoužitelné v tomto stavu, jelikož to je zapojené na té desce, ale aspoň jsem se zatím něco naučil, jak to funguje...
+![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/ece31aa5-28d1-47ee-b6b5-9ee1c31fcc60)
+![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/b13d77d3-050d-411d-95f6-426535e62fcd)
+
 
 ## ZDROJE: 
 #### Používám AI, a prošel jsem si pár projektů na tento styl. Také spolupracuji s Adamem Faltou který dělá obdobný projekt.
 
-![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/ece31aa5-28d1-47ee-b6b5-9ee1c31fcc60)
+
 
 
 
