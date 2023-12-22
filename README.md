@@ -6,7 +6,8 @@
 
 
 ## Postup:
-#### Koupil jsem si LED pasek v TEMU, do ktereho jsem investoval nemale penize. Take jsem si koupil m5stack pres ktery to programuji (Resp. pres AI si necham udelat základ, a pak si to nejak upravuji podle sebe jelikoz nejsem dobry programator). Zapojil jsem si LED pasek do desky, a udelal program viz. prilohy. ( ###### program sem pridam po novem roce, nemam v tutz chvíli přístup na PC kde mám kod)
+#### Koupil jsem si LED pasek v TEMU, do ktereho jsem investoval nemale penize. Take jsem si koupil m5stack pres ktery to programuji (Resp. pres AI si necham udelat základ, a pak si to nejak upravuji podle sebe jelikoz nejsem dobry programator). Zapojil jsem si LED pasek do desky, a udelal program viz. prilohy. 
+###### (program sem pridam po novem roce, nemam v tutz chvíli přístup na PC kde mám kod)
 
 ## Momentální stav:
 #### Podařilo se mi zprovoznit LED pasek po pár týdnech, takze ted to nejak funguje. Pomocí tlačítek se vypíná/zapíná, mám tam předefinované barvy, měním intenzitu světla a také styl svícení.
