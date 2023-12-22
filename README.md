@@ -13,7 +13,7 @@
 
 
 
-![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/0f0b814f-5ead-4eab-9aea-9e16426fc529)
+![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/57812ed6-14e9-4c47-8d26-75037878b511)
 
 
 
