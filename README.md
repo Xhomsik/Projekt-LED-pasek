@@ -1,10 +1,20 @@
 # LED PASEK
 
 ## ZADÁNÍ:
-#### Nvrhnu si zapojeni led pasku, ktery bude menit barvy, intenzitu svetla a take bude moznost si nastavit styl svícení (LGBT efekt, fade, postupne zapinani barev)
-![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/1d6a3925-6f84-4902-9cfe-c6f6aec2cf4a)
+#### Nvrhnu si zapojeni led pasku, ktery bude menit barvy, intenzitu svetla a take bude moznost si nastavit styl svícení (RGB, fade, postupne zapinani barev).
 
 
+
+## Postup:
+#### Koupil jsem si LED pasek v TEMU, do ktereho jsem investoval nemale penize. Take jsem si koupil m5stack pres ktery to programuji (Resp. pres AI si necham udelat základ, a pak si to nejak upravuji podle sebe jelikoz nejsem dobry programator). Zapojil jsem si LED pasek do desky, a udelal program viz. prilohy.
+
+## Momentální stav:
+#### Podařilo se mi zprovoznit LED pasek po pár týdnech, takze ted to nejak funguje. Pomocí tlačítek se vypíná/zapíná, mám tam předefinované barvy, měním intenzitu světla a také styl svícení.
+V praxi to je skoro nepoužitelné v tomto stavu, jelikož to je zapojené na té desce,
+ale aspon jsem se zatím něco naučil, jak to funguje.
+
+## Spolupracovni, zdroje: 
+#### Pouzivam AI, a dale čerpám informace od mého kamaráda a také spolupracovníka Adama Faltika.
 
 
 
