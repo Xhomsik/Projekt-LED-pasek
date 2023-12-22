@@ -19,6 +19,10 @@ ale aspon jsem se zatím něco naučil, jak to funguje.
 
 
 
+![prasek_O1](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/77bf85f6-0024-4d55-a52f-80749404a291)
+
+![PASEK_o2](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/f94b03c9-1108-4328-b018-bef33a86af49)
+
 
 
 
