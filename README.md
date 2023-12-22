@@ -2,6 +2,8 @@
 
 ## ZADÁNÍ:
 #### Nvrhnu si zapojeni led pasku, ktery bude menit barvy, intenzitu svetla a take bude moznost si nastavit styl svícení (LGBT efekt, fade, postupne zapinani barev)
+![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/1d6a3925-6f84-4902-9cfe-c6f6aec2cf4a)
+
 
 
 
