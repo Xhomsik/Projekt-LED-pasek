@@ -1,4 +1,4 @@
-# ROČNÍKOVÝ PROJEKT -- LED PASEK
+# ROČNÍKOVÝ PROJEKT -- LED PASEK -- Tomáš Jarkovský
 
 ## ZADÁNÍ:
 #### Navrhnul jsem si zapojení led pasku, který bude měnit barvy, intenzitu světla a také bude možnost si nastavit styl svícení (RGB, fade, postupné zapínání barev).
