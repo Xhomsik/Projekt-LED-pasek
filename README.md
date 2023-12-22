@@ -6,7 +6,7 @@
 
 
 ## POSTUP:
-#### Koupil jsem si LED pasek v TEMU s kolegou Faltou. Take jsem si koupil m5stack pres který to programuji (Pres AI si nechám si udělat základ, a pak si to nějak upravuji podle sebe jelikož nejsem úplně dobrý programátor). Zapojil jsem si LED pásek do desky, a udělal program viz. přílohy. 
+#### Koupil jsem si LED pasek v TEMU s kolegou Faltou. Take jsem si koupil m5stack pres který to programuji (Pres AI si nechám udělat základ, a pak si to nějak upravuji podle sebe jelikož nejsem úplně dobrý programátor). Zapojil jsem si LED pásek do desky, a udělal program viz. přílohy. 
 ###### (program sem přídám po novém roce, nemám v tuto chvíli přístup na PC kde mám kod ;( )
 
 ## MOMENTÁLNÍ STAV:
