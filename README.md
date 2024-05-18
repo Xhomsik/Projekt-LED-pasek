@@ -149,6 +149,8 @@ nefungovalo a rozhodilo nám to celý nastavení takže jsme to museli dělat ce
 
 ![image]![golfled](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/9c877870-8b08-48c2-b18c-0e6d36d94bba)
 
+![image] https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/67cb79a0-1fe7-49ce-bd4b-67401b0cf61e
+
 
 
 
