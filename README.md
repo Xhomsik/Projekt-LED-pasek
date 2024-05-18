@@ -18,7 +18,9 @@ V praxi to je skoro nepoužitelné v tomto stavu, jelikož to je zapojené na t�
 ## ZDROJE: 
 #### Používám AI, a prošel jsem si pár projektů na tento styl. Také spolupracuji s Adamem Faltou který dělá obdobný projekt.
 
-##program k předchozímu projektu##
+##program k předchozímu projektu
+
+
 #include <Adafruit_NeoPixel.h>
 #include <Bounce2.h>
 
