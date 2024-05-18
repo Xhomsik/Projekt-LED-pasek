@@ -140,6 +140,12 @@ void setColorWheel(byte WheelPos) {
   }
 }
 
+Tento program mi ze začátku roku fungoval, když jsem zkoušel tedka dodělat další věci, tak mi to nešlo zprovoznit. Zkoušel jsem se poradit s ostatními spolužáky a nikdo moc nevěděl co stím.
+Takže jsem zkusil udělat neco jiného, hledal jsem další způsob jak ten LED pásek ovládat a bylo by to nějak použitelné a šlo by to dát do auta. Našel jsem tento návod: https://www.youtube.com/watch?v=GYxctjukehY&t=1s
+Musel jsem si od spolužáka zapůjčit ESP32 jelikož s mým M5stackem to nešlo rozchodit, prostě to asi nepodporuje tak to nefungovalo.
+Takže jsem si stáhl program který jsem nahrál do ESP32, musel jsem nakonfigurovat připojení které muselo být v stejné sítí na ESP a zařízené na kterém to chci ovládát. Dále jsem musel připojit k ESP LED pásek, 
+přidal jsem tam rezistory a připojil ho. Následně pak už jsem musel zprovoznit komunikaci LED pásku s ESP. To nám trvalo docela dlouho, jelikož jsme se snažili připojit ESP na hotspot přes iPhone. To vůbec
+nefungovalo a rozhodilo nám to celý nastavení takže jsme to museli dělat celé asi 5x znovu. Když se nám to povedlo připojit, tak jsme to nechali na WIFI a šli to vyzkoušet jestli vše funguje jak má..
 
 
 
