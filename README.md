@@ -147,7 +147,7 @@ Takže jsem si stáhl program který jsem nahrál do ESP32, musel jsem nakonfigu
 přidal jsem tam rezistory a připojil ho. Následně pak už jsem musel zprovoznit komunikaci LED pásku s ESP. To nám trvalo docela dlouho, jelikož jsme se snažili připojit ESP na hotspot přes iPhone. To vůbec
 nefungovalo a rozhodilo nám to celý nastavení takže jsme to museli dělat celé asi 5x znovu. Když se nám to povedlo připojit, tak jsme to nechali na WIFI a šli to vyzkoušet jestli vše funguje jak má..
 
-[golfled](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/9c877870-8b08-48c2-b18c-0e6d36d94bba)
+![golfled](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/9c877870-8b08-48c2-b18c-0e6d36d94bba)
 
 Zde je krátké video jak to funguje, delší ani nešlo tady nahrát, tak aspoň krátká ukázka jak by to mělo fungovat. Samozřejmě zapojení v autě není dobré, ale pro demonstraci to takle úplně stačí.
 https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/67cb79a0-1fe7-49ce-bd4b-67401b0cf61e
