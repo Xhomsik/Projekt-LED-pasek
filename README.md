@@ -18,7 +18,7 @@ V praxi to je skoro nepoužitelné v tomto stavu, jelikož to je zapojené na t�
 ## ZDROJE: 
 #### Používám AI, a prošel jsem si pár projektů na tento styl. Také spolupracuji s Adamem Faltou který dělá obdobný projekt.
 
-##program k předchozímu projektu
+## program k předchozímu projektu
 
 
 #include <Adafruit_NeoPixel.h>
@@ -77,10 +77,6 @@ void loop() {
       // Blikání bílou barvou při 60%
       blinkColor(strip.Color(255, 255, 255), 500, 5);
     }
-
-    delay(50); // Zpoždění pro stabilitu
-  }
-
   // Ovládání LED pásu podle stavu
   if (stripOn) {
     strip.setBrightness(map(brightnessLevel, 0, 100, 0, 255)); // Nastavení jasu
