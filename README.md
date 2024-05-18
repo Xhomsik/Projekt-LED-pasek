@@ -149,6 +149,10 @@ nefungovalo a rozhodilo nám to celý nastavení takže jsme to museli dělat ce
 
 ![golfled](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/9c877870-8b08-48c2-b18c-0e6d36d94bba)
 
+## Schémá zapojení
+![image](https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/08f4b2cd-3ca7-4936-a374-c75cb787ab30)
+
+
 Zde je krátké video jak to funguje, delší ani nešlo tady nahrát, tak aspoň krátká ukázka jak by to mělo fungovat. Samozřejmě zapojení v autě není dobré, ale pro demonstraci to takle úplně stačí.
 https://github.com/Xhomsik/Projekt-LED-pasek/assets/154555027/67cb79a0-1fe7-49ce-bd4b-67401b0cf61e
 
